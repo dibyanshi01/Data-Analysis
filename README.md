@@ -22,4 +22,4 @@ https://www.kaggle.com/c/titanic/data?select=train.csv
 
 3. Covid Analysis : https://data-flair.training/blogs/download-covid-19-dataset/
 
-https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/02-06-2021.csv
+    https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/02-06-2021.csv
