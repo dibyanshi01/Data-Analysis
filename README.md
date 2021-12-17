@@ -4,8 +4,11 @@ Data analysis is defined as a process of cleaning, transforming, and modeling da
 Here some of the analysis is done on different data sets using Google Colab. We have used different libraries *pandas, numpy, matplotlib & seaborn* for ploting different types of graphs.
 
 To install libraries : **pip intsall seaborn**
+
                        **pip install pandas**
+                       
                        **pip install numpy**
+                       
                        **pip install matplotlib**
 
 **Data sets used are:** 
