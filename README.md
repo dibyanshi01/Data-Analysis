@@ -18,7 +18,7 @@ pip install matplotlib
 1. For Titanic Analysis : 
 https://www.kaggle.com/c/titanic/data?select=train.csv
 
-2. For Stock Analysis : 
+2. For Election Analysis : http://elections.huffingtonpost.com/pollster/2012-general-election-romney-vs-obama.csv 
 
 3. Covid Analysis : https://data-flair.training/blogs/download-covid-19-dataset/
 
